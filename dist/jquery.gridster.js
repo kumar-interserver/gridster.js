@@ -945,7 +945,7 @@
 				    height: false
 				},
 				min_rows: 1,
-				max_rows: 15,
+				max_rows: 25,
 				autogenerate_stylesheet: true,
 				avoid_overlapped_widgets: true,
 				auto_init: true,
